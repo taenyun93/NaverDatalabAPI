@@ -1,4 +1,9 @@
+#Class for the NAVER DATALAB API
+# created by Taenyun Kim
+# Date : 16 OCT 18
+
 class NaverDatalabAPI:
+
 
     def Help(self):
         print('Parameters',
